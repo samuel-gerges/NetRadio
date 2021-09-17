@@ -1,8 +1,13 @@
+Le but de ce projet est de programmer différentes entités mettant en place un service de diffusion de
+messages de 140 caractères.
+
 Auteurs
 =======
 
 Gerges Samuel
+
 Jami Adam
+
 Mrassi Yacine
 
 Architecture et fichiers
